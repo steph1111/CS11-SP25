@@ -112,7 +112,7 @@ GitHub is the free web based platform we and many other software engineers use t
 <br>
 
 ## 5 Fork the repo to your account
-1. Open the `CS11-F24` GitHub repo in your browser: https://github.com/steph1111/CS11-F24
+1. Open the `CS11-SP25` GitHub repo in your browser: https://github.com/steph1111/CS11-SP25
 2. At the top of the page click on <img width="80" alt="fork" src="https://github.com/steph1111/F23_CS11_SI/assets/96219204/007c608d-9d06-4db9-bee0-eaae1cd0343d">
 
     <img width="582" alt="fork" src="https://github.com/steph1111/F23_CS11_SI/assets/96219204/80964a3a-e63b-4433-a070-0b69f7c4e747">
@@ -136,7 +136,7 @@ GitHub is the free web based platform we and many other software engineers use t
     ```
     Here is an example of how I would clone my repo (your link is different)
     ```sh
-    git clone git@github.com:steph1111/F23_CS11_SI.git
+    git clone git@github.com:steph1111/CS11-SP25.git
     ```
 4. To confirm the clone was successful list your files with `ls`. You should see the name of the cloned repo in your current directory
 
